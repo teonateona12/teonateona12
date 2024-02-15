@@ -26,18 +26,10 @@
 
 <p align="center">
   <a href="https://github.com/teonateona12">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusho7&theme=radical&border=7F3FBF&background=0D1117" alt="Sandro Tushurashvili's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=teonateona12&theme=radical&border=7F3FBF&background=0D1117" alt="Teona Piranishvili's GitHub streak"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/teonateona12">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusho7&theme=radical" alt="Sandro Tushurashvili's GitHub Contribution"/>
-  </a>
-</p>
 
-<a> 
-  <a href="https://github.com/teonateona12"><img alt="Sandro Tushurashvili's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Tusho7&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Tusho7"><img alt="Sandro Tushurashvili's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Tusho7&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+
+
